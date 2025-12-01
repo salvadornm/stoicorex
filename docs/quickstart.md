@@ -28,8 +28,10 @@ Supported compilers:
 
 ## 2. Download the Repository
 
+Using GitHub CLI
+
 ```bash
-git clone https://github.com/<YOUR_ORG>/stoicrex.git
+gh repo clone salvadornm/stoicorex
 cd stoicrex
 ```
 
