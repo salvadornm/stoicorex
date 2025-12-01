@@ -1,0 +1,6 @@
+CEXE_sources += main.cpp MDParticleContainer.cpp FieldIO.cpp
+
+CEXE_headers += MDParticleContainer.H Constants.H CheckPair.H FieldIO.H
+
+
+
